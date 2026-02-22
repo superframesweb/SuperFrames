@@ -1,0 +1,21 @@
+.home-card {
+  background: var(--card);
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(16,24,40,0.04);
+}
+.welcome { h1 { margin: 0; color: var(--primary); } .muted { color: var(--muted); } }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-top: 1rem; }
+.film-card {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: .75rem;
+  border-radius: 8px;
+  border: 1px solid #eef2ff;
+
+  .poster { min-width: 96px; height: 96px; display: flex; align-items: center; justify-content: center; background: #f1f5f9; color: var(--muted); border-radius: 4px; 
+  .posterico { height: 100%; width: 100%; } 
+  }
+  .meta { h4 { margin: .1rem 0; } .muted { font-size: .9rem; } .btn { margin-top: .5rem; } }
+}

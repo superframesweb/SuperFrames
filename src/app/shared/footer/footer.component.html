@@ -1,0 +1,12 @@
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-section">
+      <span>&copy; 2026 Super Frames. All rights reserved.</span>
+    </div>
+    <div class="footer-user">
+      <span class="username">{{ authName }}</span>
+      <button *ngIf="!(auth?.isAuthenticated())" routerLink="/login" hoverScale class="btn">Login</button>
+      <button *ngIf="auth?.isAuthenticated()" (click)="logout()" class="btn" hoverScale>Logout</button>
+    </div>
+  </div>
+</footer>
