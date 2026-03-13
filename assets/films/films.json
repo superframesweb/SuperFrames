@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "poster": "https://picsum.photos/id/1015/800/1200",
+    "rating": 8.9,
+    "desc": "Paul Atreides unites with Chani and the Fremen while seeking revenge against his enemies."
+  },
+  {
+    "id": 2,
+    "title": "Oppenheimer",
+    "poster": "https://picsum.photos/id/1016/800/1200",
+    "rating": 8.5,
+    "desc": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb."
+  },
+  {
+    "id": 3,
+    "title": "The Batman",
+    "poster": "https://picsum.photos/id/133/800/1200",
+    "rating": 8.1,
+    "desc": "Batman ventures into Gotham City’s underworld when a sadistic killer leaves behind a trail of cryptic clues."
+  },
+  {
+    "id": 4,
+    "title": "Furiosa: A Mad Max Saga",
+    "poster": "https://picsum.photos/id/201/800/1200",
+    "rating": 7.8,
+    "desc": "The origin story of renegade warrior Furiosa before her encounter with Mad Max."
+  },
+  {
+    "id": 5,
+    "title": "Challengers",
+    "poster": "https://picsum.photos/id/237/800/1200",
+    "rating": 8.3,
+    "desc": "Tashi Duncan, once a tennis prodigy turned coach, turns her husband into a champion."
+  },
+  {
+    "id": 6,
+    "title": "Kingdom of the Planet of the Apes",
+    "poster": "https://picsum.photos/id/251/800/1200",
+    "rating": 7.4,
+    "desc": "Many years after the reign of Caesar, an ape hunter embarks on a journey that will question all that he grew up believing."
+  },
+  {
+    "id": 7,
+    "title": "The Fall Guy",
+    "poster": "https://picsum.photos/id/870/800/1200",
+    "rating": 7.2,
+    "desc": "A down-and-out stuntman must find the missing star of his ex-girlfriend’s blockbuster film."
+  },
+  {
+    "id": 8,
+    "title": "Deadpool & Wolverine",
+    "poster": "https://picsum.photos/id/1018/800/1200",
+    "rating": 8.0,
+    "desc": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority."
+  }
+]
